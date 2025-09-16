@@ -2,6 +2,7 @@ Daily Planner
 
 Um aplicativo simples para organizar tarefas do dia a dia.
 
+
 Funcionalidades
 
 - Adicionar tarefas com título, descrição e data de vencimento
@@ -9,8 +10,8 @@ Funcionalidades
 - Marcar tarefas como concluídas
 - Excluir tarefas
 - Filtrar tarefas por data de vencimento
-- Armazenamento local para salvar as tarefas
-- Notificações para lembrar as tarefas que precisam ser concluídas
+- Salvar tarefas no armazenamento local
+- Carregar tarefas salvas
 
 Tecnologias Utilizadas
 
